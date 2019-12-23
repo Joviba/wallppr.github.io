@@ -3,22 +3,24 @@ body{
     background-color: honeydew;
     background-image: url(../Wallpapers/IMG_20170605_134050_528.jpg);
     background-repeat: no-repeat;
-
+    
     background-position: center;
     background-attachment: fixed;
 }
 p{
-    color: rgb(0, 255, 213)
+    text-shadow: 3px 3px 10px rgb(73, 73, 73);
+    color: rgb(255, 255, 255)
 }
 header{
     width: 100%
 }
 h1{
+    text-shadow: 3px 3px 10px rgb(73, 73, 73);
     padding-top: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 40px;
-    color: rgb(6, 214, 214)
+    color: rgb(255, 255, 255)
 }
 .navegacion{
     width: 100%;
